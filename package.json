@@ -6,7 +6,7 @@
   "author": "Wiput Pootong (wiput.pootong@gmail.com) <wiput.pootong@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node index.ts"
+    "ts-node": "ts-node"
   },
   "devDependencies": {
     "@prisma/cli": "2.13.1",
